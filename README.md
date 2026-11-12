@@ -51,4 +51,8 @@ This project implements a Decision Tree Classification model using Python and Sc
 The Decision Tree Classification model successfully demonstrates how supervised machine learning can classify flower species based on input features. It provides an easy-to-understand approach to making predictions using decision rules.
 
 ## 👨‍💻 Author
+
+**Nawaz Shareef Shaik**
+
+GitHub: https://github.com/ShaikNawazShareef
 Machine Learning Project – Decision Tree Classification
